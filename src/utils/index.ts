@@ -1,9 +1,9 @@
 /*
- * @FilePath: \hel-micro-utils\src\utils\index.ts
+ * @FilePath: \hel-micro-lodash\src\utils\index.ts
  * @Date: 2022-09-24 03:03:23
  * @Author: itmanyong@gmail.com
  * @LastEditors: itmanyong@gmail.com
- * @LastEditTime: 2022-09-24 03:56:43
+ * @LastEditTime: 2022-09-24 05:13:16
  * @Description: lodash-v4.17.21
  */
 import {
