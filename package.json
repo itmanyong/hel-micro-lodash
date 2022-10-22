@@ -5,7 +5,7 @@
   "module": "hel_proxy_es/entry.js",
   "unpkg": "hel_dist/entry.js",
   "types": "lib/entrance/libTypes.ts",
-  "version": "4.17.21.02",
+  "version": "4.17.21.03",
   "author": {
     "name": "itmanyong"
   },
@@ -29,6 +29,7 @@
     "hel-micro": "^3.8.4"
   },
   "scripts": {
+    "ia": "pnpm install --shamefully-hoist",
     "postinstall": "node ./scripts/postinstall.js",
     "check": "node ./scripts/check",
     "start": "cross-env PORT=3001 npm run app",
